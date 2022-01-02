@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Windows10"
+	],
+	"copyright": "No Rights Reserved, 2022, Windows10",
+	"dependencies": {
+		"dpq2": "~>1.0.24"
+	},
+	"description": "A minimal D application.",
+	"license": "Public Domain\\",
+	"name": "dpq2test"
+}
